@@ -13,6 +13,7 @@
 		2DF69498266C153500F1A179 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DF69496266C153500F1A179 /* Main.storyboard */; };
 		2DF6949A266C153700F1A179 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DF69499266C153700F1A179 /* Assets.xcassets */; };
 		2DF6949D266C153700F1A179 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DF6949B266C153700F1A179 /* LaunchScreen.storyboard */; };
+		2DF694A5266C177100F1A179 /* PersonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF694A4266C177100F1A179 /* PersonCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2DF69499266C153700F1A179 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2DF6949C266C153700F1A179 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2DF6949E266C153700F1A179 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2DF694A4266C177100F1A179 /* PersonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				2DF69492266C153500F1A179 /* SceneDelegate.swift */,
 				2DF69494266C153500F1A179 /* ViewController.swift */,
 				2DF69496266C153500F1A179 /* Main.storyboard */,
+				2DF694A4266C177100F1A179 /* PersonCell.swift */,
 				2DF69499266C153700F1A179 /* Assets.xcassets */,
 				2DF6949B266C153700F1A179 /* LaunchScreen.storyboard */,
 				2DF6949E266C153700F1A179 /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				2DF69495266C153500F1A179 /* ViewController.swift in Sources */,
 				2DF69491266C153500F1A179 /* AppDelegate.swift in Sources */,
+				2DF694A5266C177100F1A179 /* PersonCell.swift in Sources */,
 				2DF69493266C153500F1A179 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
